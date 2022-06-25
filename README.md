@@ -1,5 +1,11 @@
 # javascript-gof-patterns
 Implementation patterns and advanced techniques
+
+```mermaid
+flowchart LR
+    Patterns --> Techniques
+```
+
 ## Patterns																				
 - [ ]  Фабричный метод
 - [ ]  Абстрактная фабрика
@@ -28,7 +34,7 @@ Implementation patterns and advanced techniques
 - [x]  debounce
 - [x]  throttle
 - [x]  memoize
-- [ ]  partial
-- [ ]  curry
+- [x]  partial
+- [x]  curry
 - [ ]  chaining
 - [ ]  pipe
