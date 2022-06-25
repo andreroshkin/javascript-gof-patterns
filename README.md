@@ -36,5 +36,5 @@ flowchart LR
 - [x]  memoize
 - [x]  partial
 - [x]  curry
-- [ ]  chaining
+- [x]  chaining
 - [x]  pipe
