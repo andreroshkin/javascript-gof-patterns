@@ -10,7 +10,7 @@ function curry(func) {
     };
 }
 
-//practical example
+//practical example currying
 function discount(discount, price) {
     return price * discount;
 }
@@ -20,3 +20,6 @@ const tenPercentDiscount = curriedDiscount(0.1);
 console.log(curriedDiscount(0.1)(500));
 console.log(tenPercentDiscount(500));
 
+// or partial application
+const tenPercentDiscountWithPartialApplication = discount.bind(null, 0.1);
+console.log(tenPercentDiscountWithPartialApplication(500));
