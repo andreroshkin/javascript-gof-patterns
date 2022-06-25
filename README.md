@@ -37,4 +37,4 @@ flowchart LR
 - [x]  partial
 - [x]  curry
 - [ ]  chaining
-- [ ]  pipe
+- [x]  pipe
