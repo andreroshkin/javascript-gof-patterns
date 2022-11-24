@@ -9,7 +9,7 @@ flowchart LR
 ## Patterns																				
 - [x]  Фабричный метод (Factory Method)
 - [x]  Абстрактная фабрика (Abstract Factory)
-- [ ]  Строитель (Builder)
+- [x]  Строитель (Builder)
 - [x]  Прототип (Prototype)
 - [x]  Одиночка (Singleton)
 - [ ]  Адаптер (Adapter)
@@ -45,3 +45,9 @@ flowchart LR
 - [ ] Liskov Substitution Principle (Принцип подстановки Барбары Лисков).
 - [ ] Interface Segregation Principle (Принцип разделения интерфейса).
 - [ ] Inversion Principle (Принцип инверсии зависимостей).
+
+## OOP
+- [ ] Абстракция 
+- [ ] Полиморфизм
+- [ ] Наследование 
+- [ ] Инкапсуляция 
