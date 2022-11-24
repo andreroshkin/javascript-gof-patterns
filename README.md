@@ -12,7 +12,7 @@ flowchart LR
 - [x]  Строитель (Builder)
 - [x]  Прототип (Prototype)
 - [x]  Одиночка (Singleton)
-- [ ]  Адаптер (Adapter)
+- [x]  Адаптер (Adapter)
 - [ ]  Мост (Bridge)
 - [ ]  Компоновщик (Composite)
 - [ ]  Декоратор (Decorator)
