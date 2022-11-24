@@ -16,7 +16,7 @@ flowchart LR
 - [ ]  Мост (Bridge)
 - [x]  Компоновщик (Composite)
 - [x]  Декоратор (Decorator)
-- [ ]  Фасад (Facade)
+- [x]  Фасад (Facade)
 - [x]  Легковес (Flyweight)
 - [ ]  Заместитель (Proxy)
 - [ ]  Цепочка обязанностей (Chain of Responsibility)
