@@ -15,7 +15,7 @@ flowchart LR
 - [x]  Адаптер (Adapter)
 - [ ]  Мост (Bridge)
 - [x]  Компоновщик (Composite)
-- [ ]  Декоратор (Decorator)
+- [x]  Декоратор (Decorator)
 - [ ]  Фасад (Facade)
 - [x]  Легковес (Flyweight)
 - [ ]  Заместитель (Proxy)
