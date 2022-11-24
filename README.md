@@ -14,7 +14,7 @@ flowchart LR
 - [x]  Одиночка (Singleton)
 - [x]  Адаптер (Adapter)
 - [ ]  Мост (Bridge)
-- [ ]  Компоновщик (Composite)
+- [x]  Компоновщик (Composite)
 - [ ]  Декоратор (Decorator)
 - [ ]  Фасад (Facade)
 - [x]  Легковес (Flyweight)
