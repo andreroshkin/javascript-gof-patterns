@@ -21,7 +21,7 @@ flowchart LR
 - [x]  Заместитель (Proxy)
 - [x]  Цепочка обязанностей (Chain of Responsibility)
 - [x]  Команда (Command)
-- [ ]  Итератор (Iterator)
+- [x]  Итератор (Iterator)
 - [x]  Посредник (Mediator)
 - [ ]  Снимок (Memento)
 - [x]  Наблюдатель (Observer)
