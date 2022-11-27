@@ -27,7 +27,7 @@ flowchart LR
 - [x]  Наблюдатель (Observer)
 - [x]  Состояние (State)
 - [x]  Стратегия (Strategy)
-- [ ]  Шаблонный метод (Template Method)
+- [x]  Шаблонный метод (Template Method)
 - [ ]  Посетитель (Visitor)
 
 ## Techniques
