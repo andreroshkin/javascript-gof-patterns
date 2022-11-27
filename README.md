@@ -25,7 +25,7 @@ flowchart LR
 - [x]  Посредник (Mediator)
 - [x]  Снимок (Memento)
 - [x]  Наблюдатель (Observer)
-- [ ]  Состояние (State)
+- [x]  Состояние (State)
 - [ ]  Стратегия (Strategy)
 - [ ]  Шаблонный метод (Template Method)
 - [ ]  Посетитель (Visitor)
