@@ -18,7 +18,7 @@ flowchart LR
 - [x]  Декоратор (Decorator)
 - [x]  Фасад (Facade)
 - [x]  Легковес (Flyweight)
-- [ ]  Заместитель (Proxy)
+- [x]  Заместитель (Proxy)
 - [ ]  Цепочка обязанностей (Chain of Responsibility)
 - [x]  Команда (Command)
 - [ ]  Итератор (Iterator)
