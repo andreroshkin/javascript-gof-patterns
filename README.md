@@ -28,7 +28,7 @@ flowchart LR
 - [x]  Состояние (State)
 - [x]  Стратегия (Strategy)
 - [x]  Шаблонный метод (Template Method)
-- [ ]  Посетитель (Visitor)
+- [x]  Посетитель (Visitor)
 
 ## Techniques
 - [x]  debounce
