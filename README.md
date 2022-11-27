@@ -23,7 +23,7 @@ flowchart LR
 - [x]  Команда (Command)
 - [x]  Итератор (Iterator)
 - [x]  Посредник (Mediator)
-- [ ]  Снимок (Memento)
+- [x]  Снимок (Memento)
 - [x]  Наблюдатель (Observer)
 - [ ]  Состояние (State)
 - [ ]  Стратегия (Strategy)
