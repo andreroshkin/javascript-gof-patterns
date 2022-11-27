@@ -13,7 +13,7 @@ flowchart LR
 - [x]  Прототип (Prototype)
 - [x]  Одиночка (Singleton)
 - [x]  Адаптер (Adapter)
-- [ ]  Мост (Bridge)
+- [x]  Мост (Bridge)
 - [x]  Компоновщик (Composite)
 - [x]  Декоратор (Decorator)
 - [x]  Фасад (Facade)
