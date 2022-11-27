@@ -19,7 +19,7 @@ flowchart LR
 - [x]  Фасад (Facade)
 - [x]  Легковес (Flyweight)
 - [x]  Заместитель (Proxy)
-- [ ]  Цепочка обязанностей (Chain of Responsibility)
+- [x]  Цепочка обязанностей (Chain of Responsibility)
 - [x]  Команда (Command)
 - [ ]  Итератор (Iterator)
 - [x]  Посредник (Mediator)
