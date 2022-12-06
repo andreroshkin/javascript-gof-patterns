@@ -26,3 +26,19 @@ range[Symbol.iterator] = function () {
 for (const num of range) {
     console.log(num);
 }
+
+// generator
+let range2 = {
+    from: 1,
+    to: 5,
+};
+
+range2[Symbol.iterator] = function* () {
+    for (let value = this.from; value <= this.to; value++) {
+        yield value;
+    }
+};
+
+for (const num of range2) {
+    console.log(num);
+}
