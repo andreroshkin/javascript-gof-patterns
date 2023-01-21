@@ -47,7 +47,7 @@ flowchart LR
 - [ ] Inversion Principle (Принцип инверсии зависимостей).
 
 ## OOP
-- [ ] Абстракция 
-- [ ] Полиморфизм
-- [ ] Наследование 
+- [ ] Abstraction (Абстракция) 
+- [ ] Polymorphism (Полиморфизм)
+- [x] Inheritance (Наследование)  
 - [x] Encapsulation (Инкапсуляция) 
